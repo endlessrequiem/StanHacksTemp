@@ -69,7 +69,7 @@ body {
  * links - (_document-setup) 
  * ------------------------------------------------------------------- */
 a, a:visited {
-	color: #057f78;
+	color: #7f0500;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -291,7 +291,7 @@ ul.disc li::before {
 }
 dt {
 	margin: 0;
-	color: #034e4a;
+	color: #7f0500;
 }
 dd {
 	margin: 0 0 0 2rem;
@@ -471,7 +471,7 @@ input[type="password"]:focus,
 textarea:focus,
 select:focus {
 	color: #000000;
-	border-color: #034e4a;
+	border-color: #7f0500;
 }
 label, legend {
 	font-family: "roboto-bold", sans-serif;
@@ -573,7 +573,7 @@ button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
-	background: #034e4a;
+	background: #7f0500;
 	color: #FFFFFF;
 }
 
@@ -630,8 +630,8 @@ button.stroke.large,
 
 button.stroke:hover,
 .button.stroke:hover {
-	border: 3px solid #034e4a;
-	color: #034e4a;
+	border: 3px solid #7f0500;
+	color: #7f0500;
 }
 
 button::-moz-focus-inner,
@@ -778,7 +778,7 @@ input::-moz-focus-inner {
 	color: #252525;
 }
 .stats-tabs li a:hover {
-	color: #034e4a;
+	color: #7f0500;
 }
 .stats-tabs li a em {
 	display: block;
@@ -870,7 +870,7 @@ header .social-links ul li a:visited {
 
 header .social-links ul li a:hover,
 header .social-links ul li a:focus {
-	color: #057f78;
+	color: #7f0500;
 }
 
 /* ------------------------------------------------------------------- 
@@ -1243,7 +1243,7 @@ header .social-links ul li a:focus {
  * ------------------------------------------------------------------- */
 #info {
 	background: #FFFFFF;
-	background-image: url(../images/info-bg.jpg);
+	background-image: url(https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -1430,7 +1430,7 @@ header .social-links ul li a:focus {
 .about-list .icon {
 	display: inline-block;
 	margin-bottom: 2.1rem;
-	color: #034e4a;
+	color: #7f0500;
 }
 .about-list .icon i {
 	font-size: 5.4rem;
@@ -1504,7 +1504,7 @@ header .social-links ul li a:focus {
 	margin-top: -6px;
 	border-top: 5px solid transparent;
 	border-bottom: 5px solid transparent;
-	border-right: 5px solid #034e4a;
+	border-right: 5px solid #7f0500;
 	content: "";
 }
 
@@ -1525,7 +1525,7 @@ header .social-links ul li a:focus {
 }
 
 #tab-contact #message-success {
-	color: #034e4a;
+	color: #7f0500;
 }
 
 #tab-contact #message-warning i,
@@ -1546,7 +1546,7 @@ header .social-links ul li a:focus {
 #submit-loader .text-loader {
 	display: none;
 	font-family: "roboto-black", sans-serif;
-	color: #034e4a;
+	color: #7f0500;
 	letter-spacing: .3rem;
 	text-transform: uppercase;
 }
@@ -1573,7 +1573,7 @@ header .social-links ul li a:focus {
 .s-loader > div {
 	width: 1rem;
 	height: 1rem;
-	background-color: #034e4a;
+	background-color: #7f0500;
 	border-radius: 100%;
 	display: inline-block;
 	margin-right: .9rem;
@@ -1630,7 +1630,7 @@ header .social-links ul li a:focus {
  *
  * ------------------------------------------------------------------- */
 #cta {
-	background: #034e4a;
+	background: #7f0500;
 	padding-top: 9rem;
 	padding-bottom: 7.8rem;
 	text-align: center;
@@ -1639,7 +1639,7 @@ header .social-links ul li a:focus {
 	color: rgba(255, 255, 255, 0.5);
 }
 #cta .button {
-	background: #02312e;
+	background: #7f0500;
 	color: #FFFFFF;
 }
 #cta .button:hover {
@@ -1722,7 +1722,7 @@ footer .footer-social-list a:visited {
 
 footer .footer-social-list a:hover,
 footer .footer-social-list a:focus {
-	color: #057f78;
+	color: #7f0500;
 }
 
 footer .footer-social-list li {
@@ -1757,7 +1757,7 @@ footer .footer-bottom a:visited {
 
 footer .footer-bottom a:hover,
 footer .footer-bottom a:focus {
-	color: #034e4a;
+	color: #7f0500;
 }
 
 footer .footer-bottom .footer-logo {
@@ -1815,7 +1815,7 @@ footer .back-to-top {
 
 footer .back-to-top a {
 	display: block;
-	background: #034e4a;
+	background: #7f0500;
 	padding: 1.2rem 3rem 1.5rem;
 	color: #FFFFFF;
 }
